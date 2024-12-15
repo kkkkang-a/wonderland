@@ -1,18 +1,18 @@
 ---
-title: 👋
+title: 👋 Welcome to the Wonderland
 ---
 
 `hello world!`
 
 This is a digital garden for [me](https://github.com/kkkkang-a), a university student, to collect all my notes and thoughts when learning computer science and data science.
 
-Here, the main focus will be the following topics:
+Here, the main focus will be the following fields:
 
-- [🧠 Artificial Intelligence / Machine Learning](artificial-intelligence.md)
+- [🧠 Artificial Intelligence](artificial-intelligence.md)
 - [🧑‍💻 Computer Science](computer-science.md)
-- [🌐 Cyber Security](cyber-secuirty.md)
+- [🌐 Cyber Security](cybersecuirty.md)
 - [💾 Database System](database-system.md)
-- [📊 Data Science / Statistical Inferences](data-science.md)
+- [📊 Data Science](data-science.md)
 - [💻 Software Development](software-development.md)
 
 This garden is written with [obsidian](https://obsidian.md), and published using [quartz](https://github.com/jackyzha0/quartz). It is stored in the [GitHub repository](https://github.com/kkkkang-a/wonderland), with all assets for building this website. It is open-source and welcome to any suggestions and contributions.
