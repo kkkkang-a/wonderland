@@ -1,3 +1,3 @@
 ---
-title: 📊 Data Science
+title: 📊 Data Science & Statistical Inference
 ---
